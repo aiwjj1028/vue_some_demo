@@ -1,0 +1,139 @@
+2020/09/23 23:27:33 [notice] 16968#15608: signal process started
+2020/09/23 23:27:33 [error] 16968#15608: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/23 23:28:27 [notice] 10612#4132: signal process started
+2020/09/23 23:29:44 [notice] 12072#17060: signal process started
+2020/09/23 23:29:47 [notice] 1580#15816: signal process started
+2020/09/23 23:29:47 [error] 1580#15816: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/23 23:41:28 [notice] 4256#2472: signal process started
+2020/09/23 23:44:46 [notice] 9576#11752: signal process started
+2020/09/23 23:48:36 [notice] 16500#4708: signal process started
+2020/09/23 23:49:35 [notice] 18404#18252: signal process started
+2020/09/23 23:49:36 [notice] 5900#16596: signal process started
+2020/09/23 23:49:36 [error] 5900#16596: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/23 23:55:32 [notice] 14884#9276: signal process started
+2020/09/23 23:56:25 [notice] 15448#7972: signal process started
+2020/09/23 23:56:25 [error] 15448#7972: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/23 23:57:48 [notice] 17988#18004: signal process started
+2020/09/24 00:03:05 [emerg] 16792#4640: unknown directive "if(!-e" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:03:08 [emerg] 17716#16328: unknown directive "if(!-e" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:03:59 [emerg] 2120#17752: unknown directive "if(" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:12:39 [emerg] 17512#2336: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:12:44 [emerg] 9360#13800: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:14:23 [emerg] 15984#15788: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:14:27 [emerg] 15632#8608: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:15:32 [emerg] 16792#16172: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:15:35 [emerg] 9028#18048: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:16:06 [emerg] 16664#8552: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:16:09 [emerg] 13700#7712: directive "location" has no opening "{" in D:\nginx-1.18.0/conf/nginx.conf:121
+2020/09/24 00:16:29 [notice] 252#17872: signal process started
+2020/09/24 00:17:13 [notice] 12708#10224: signal process started
+2020/09/24 00:25:57 [notice] 15392#13652: signal process started
+2020/09/24 00:28:26 [notice] 17224#15060: signal process started
+2020/09/24 00:39:05 [notice] 18024#1772: signal process started
+2020/09/24 00:40:05 [notice] 12788#16880: signal process started
+2020/09/24 00:40:51 [notice] 11184#6660: signal process started
+2020/09/24 00:40:52 [notice] 18244#12804: signal process started
+2020/09/24 00:40:52 [error] 18244#12804: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 00:50:13 [notice] 4288#7916: signal process started
+2020/09/24 21:32:07 [emerg] 14520#3264: unknown directive "//此处为A的路径" in D:\nginx-1.18.0/conf/nginx.conf:122
+2020/09/24 21:33:36 [emerg] 4548#15060: unknown directive "//此处为A的路径" in D:\nginx-1.18.0/conf/nginx.conf:122
+2020/09/24 21:33:45 [emerg] 14484#15120: unknown directive "//此处为A的路径" in D:\nginx-1.18.0/conf/nginx.conf:122
+2020/09/24 21:33:47 [emerg] 13092#2388: unknown directive "//此处为A的路径" in D:\nginx-1.18.0/conf/nginx.conf:122
+2020/09/24 21:33:53 [emerg] 14552#2804: unknown directive "//此处为A的路径" in D:\nginx-1.18.0/conf/nginx.conf:122
+2020/09/24 21:36:31 [notice] 1608#15040: signal process started
+2020/09/24 21:36:31 [error] 1608#15040: OpenEvent("Global\ngx_quit_14216") failed (2: The system cannot find the file specified)
+2020/09/24 21:36:35 [notice] 1088#12976: signal process started
+2020/09/24 21:36:35 [error] 1088#12976: OpenEvent("Global\ngx_quit_14216") failed (2: The system cannot find the file specified)
+2020/09/24 21:36:59 [notice] 9080#12648: signal process started
+2020/09/24 21:37:01 [notice] 8664#7376: signal process started
+2020/09/24 21:37:01 [error] 8664#7376: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 21:37:09 [error] 14440#12048: *1 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:37:09 [error] 14440#12048: *2 CreateFile() "D:\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 21:37:24 [error] 14440#12048: *2 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:37:28 [error] 14440#12048: *3 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:39:06 [error] 14440#12048: *5 rewrite or internal redirection cycle while internally redirecting to "/page1/index.html", client: 127.0.0.1, server: , request: "GET /page1 HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:42:40 [notice] 14688#12296: signal process started
+2020/09/24 21:42:43 [notice] 13436#4760: signal process started
+2020/09/24 21:42:43 [error] 13436#4760: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 21:48:46 [notice] 8568#8776: signal process started
+2020/09/24 21:48:47 [notice] 9828#9820: signal process started
+2020/09/24 21:48:53 [error] 10652#4264: *1 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:54 [error] 10652#4264: *2 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:55 [error] 10652#4264: *3 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:55 [error] 10652#4264: *4 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:55 [error] 10652#4264: *5 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:55 [error] 10652#4264: *6 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:56 [error] 10652#4264: *7 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:56 [error] 10652#4264: *8 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:56 [error] 10652#4264: *9 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:56 [error] 10652#4264: *10 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:57 [error] 10652#4264: *11 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:57 [error] 10652#4264: *12 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:57 [error] 10652#4264: *13 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:57 [error] 10652#4264: *14 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:57 [error] 10652#4264: *15 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:58 [error] 10652#4264: *16 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:58 [error] 10652#4264: *17 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:58 [error] 10652#4264: *18 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:48:59 [error] 10652#4264: *19 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:49:13 [error] 10652#4264: *20 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index/index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:49:41 [error] 10652#4264: *21 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:50:04 [notice] 15236#14908: signal process started
+2020/09/24 21:50:05 [notice] 10056#8724: signal process started
+2020/09/24 21:50:05 [error] 10056#8724: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 21:50:10 [error] 10652#4264: *22 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:50:11 [error] 10652#4264: *23 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:50:11 [error] 10652#4264: *24 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:50:11 [error] 10652#4264: *25 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /index.html HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:57:11 [notice] 3196#13656: signal process started
+2020/09/24 21:57:12 [notice] 8044#11972: signal process started
+2020/09/24 21:57:12 [error] 8044#11972: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 21:58:39 [notice] 7708#10316: signal process started
+2020/09/24 21:58:47 [error] 10652#4264: *27 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:58:49 [error] 10652#4264: *28 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 21:59:33 [notice] 11140#1668: signal process started
+2020/09/24 21:59:39 [error] 10652#4264: *29 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:59:39 [error] 10652#4264: *30 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 21:59:43 [error] 10652#4264: *31 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:59:43 [error] 10652#4264: *32 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 21:59:50 [error] 10652#4264: *34 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 21:59:51 [error] 10652#4264: *35 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 22:00:42 [notice] 10948#5840: signal process started
+2020/09/24 22:00:45 [notice] 9824#11920: signal process started
+2020/09/24 22:00:46 [notice] 8808#9492: signal process started
+2020/09/24 22:00:46 [error] 8808#9492: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 22:01:01 [error] 10652#4264: *37 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 22:01:03 [error] 10652#4264: *38 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8282", referrer: "http://localhost:8282/"
+2020/09/24 22:01:30 [notice] 11432#10244: signal process started
+2020/09/24 22:01:32 [notice] 8696#10456: signal process started
+2020/09/24 22:01:32 [error] 8696#10456: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 22:06:38 [notice] 13524#6168: signal process started
+2020/09/24 22:06:39 [notice] 5840#15264: signal process started
+2020/09/24 22:06:39 [error] 5840#15264: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 22:06:51 [error] 10652#4264: *41 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 22:07:25 [error] 4012#4460: *3 CreateFile() "D:\nginx-1.18.0/dist/page1" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /page1 HTTP/1.1", host: "localhost:8289"
+2020/09/24 22:35:47 [notice] 5996#13004: signal process started
+2020/09/24 22:35:58 [error] 10652#4264: *44 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 22:38:03 [notice] 14380#10400: signal process started
+2020/09/24 22:43:51 [notice] 7192#14292: signal process started
+2020/09/24 22:43:51 [error] 7192#14292: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 22:43:52 [notice] 7116#13412: signal process started
+2020/09/24 22:43:52 [error] 7116#13412: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 23:01:40 [notice] 7552#12844: signal process started
+2020/09/24 23:01:41 [notice] 1400#12832: signal process started
+2020/09/24 23:01:41 [error] 1400#12832: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 23:01:53 [error] 10652#4264: *46 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 23:08:12 [emerg] 10288#9736: unknown directive "//通过访问时添加后缀来隐藏URL中的后缀" in D:\nginx-1.18.0/conf/nginx.conf:129
+2020/09/24 23:08:13 [emerg] 6388#8780: unknown directive "//通过访问时添加后缀来隐藏URL中的后缀" in D:\nginx-1.18.0/conf/nginx.conf:129
+2020/09/24 23:08:14 [emerg] 13660#12864: unknown directive "//通过访问时添加后缀来隐藏URL中的后缀" in D:\nginx-1.18.0/conf/nginx.conf:129
+2020/09/24 23:08:30 [error] 10652#4264: *48 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 23:09:19 [error] 14952#13136: *12 CreateFile() "D:\nginx-1.18.0/dist/page1" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /page1 HTTP/1.1", host: "localhost:8289"
+2020/09/24 23:16:27 [emerg] 13624#11568: unknown directive "//定位URL中translate文件夹下的静态文件" in D:\nginx-1.18.0/conf/nginx.conf:137
+2020/09/24 23:16:42 [notice] 11560#5236: signal process started
+2020/09/24 23:16:43 [notice] 10280#12864: signal process started
+2020/09/24 23:16:43 [error] 10280#12864: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 23:16:53 [error] 10652#4264: *51 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
+2020/09/24 23:22:00 [notice] 8048#13512: signal process started
+2020/09/24 23:22:01 [notice] 14040#14536: signal process started
+2020/09/24 23:22:01 [error] 14040#14536: CreateFile() "D:\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/24 23:22:08 [error] 10652#4264: *53 rewrite or internal redirection cycle while internally redirecting to "/index/index.html", client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8282"
