@@ -21,3 +21,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+nginx_config/nginx-1.18.0/logs/
+nginx_config/nginx-1.18.0/dist
