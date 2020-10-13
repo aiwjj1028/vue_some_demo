@@ -1,7 +1,7 @@
 <template>
   <div class="list">
     this is page1 list
-    <img src="../../../assets/logo.png"/>
+    <button @click="godetial()">进入Detial页面</button>
     <el-date-picker
       v-model="value1"
       type="date"
@@ -17,6 +17,11 @@ export default {
       return {
         value1: '',
       };
-    }
+    },
+     methods:{
+     godetial:function(){
+       this.$router.push({name:'detial'})      
+     }
+  }
 }
 </script>

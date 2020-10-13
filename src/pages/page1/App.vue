@@ -1,13 +1,19 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/list">list</router-link> |
-      <router-link to="/detial">detial</router-link>
-    </div>
-    <router-view/>
+    <router-view :key="key"></router-view>
   </div>
 </template>
-
+<script>
+export default {
+computed: {
+ key() {
+   console.log('进入的名称',this.$route.name)
+   return this.$route.name !== undefined? this.$route.name +new Date(): this.$route +new Date()
+   }
+  },
+  
+}
+</script>
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;

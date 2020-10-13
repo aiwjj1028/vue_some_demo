@@ -10,16 +10,23 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
+      path: '/home',
+      name:'home',
       component:Home
     },
     {
       path: '/list',
+      name:'list',
       component:List
     },
     {
       path: '/detial',
+      name:'detial',
       component:Detail
     }
   ]
 })
+// const originalPush = Router.prototype.push;
+// Router.prototype.push = function push(location) {
+//   return originalPush.call(this, location).catch(err => err)
+// }
